@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "qp"
+  },
+  "database": {
+    "dbname": "qp",
+    "host": "mysql",
+    "username": "root",
+    "password": "12345",
+    "dialect": "mysql",
+    "port": "3306"
+  }
+}
